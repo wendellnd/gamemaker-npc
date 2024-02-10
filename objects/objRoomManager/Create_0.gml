@@ -1,3 +1,5 @@
+global.paused = false
+
 var width = global.res.width
 var height = global.res.height
 

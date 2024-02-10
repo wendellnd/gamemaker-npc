@@ -2,7 +2,6 @@ inputX = 0
 inputY = 0
 
 moveSpeed = 1
-
 moving = false
 
 targetX = x
